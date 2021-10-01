@@ -1,0 +1,22 @@
+{
+  "name": "numerologie",
+  "version": "1.0.0",
+  "description": "on fait de la numerologie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SimonRosee/poireau.git"
+  },
+  "author": "Simon ROSE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonRosee/poireau/issues"
+  },
+  "homepage": "https://github.com/SimonRosee/poireau#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
